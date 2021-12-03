@@ -2,8 +2,8 @@
 
 🎓 Graduated in computer science
 
-💻 Freelance worker
+💻 Working as freelance 
 
-🎯 Master student at La Sapienza 
+🎯 Attending the master's degree in computer science at La Sapienza
 
-🤌 Living in Rome
+🇮🇹 Living in Rome
