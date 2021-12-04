@@ -4,6 +4,6 @@
 
 💻 Working as freelance 
 
-🎯 Attending the master's degree in computer science at La Sapienza
+🌱 Attending the master's degree in computer science at La Sapienza
 
 🇮🇹 Living in Rome
