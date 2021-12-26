@@ -6,6 +6,10 @@
 
 🖥️ I'm currently collaboreting with <a href="https://cine.dev/">CineDev</a> as Swift Developer
 
+💡 Topics of interest: Machine Learning, AI, UX and math
+
+⚽ I love to watch soccer, listen to hip hop music, cook traditional food and watch animation shows
+
 ##  
 
 [![Telegram Badge](https://img.shields.io/badge/-@MichaelPlug-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/MichaelPlug "Contact on Telegram")
