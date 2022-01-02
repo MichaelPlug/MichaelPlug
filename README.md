@@ -1,6 +1,6 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+#  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Hi! I'm a Michele, and I'm a freelance developer
+:octocat: Hi! I'm a Michele, and I'm a freelance developer
 
 🖥️ I'm currently collaboreting with <a href="https://cine.dev/">CineDev</a> as Swift Developer
 
