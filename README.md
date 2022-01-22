@@ -13,4 +13,4 @@
 #### 📫 How to reach me:
 
 [![Telegram Badge](https://img.shields.io/badge/-@MichaelPlug-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/MichaelPlug "Contact on Telegram")
-[![Linkedin Badge](https://img.shields.io/badge/-Michele%20Spina-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/michele-spina-81ba7a200/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Michele%20Spina-0072b1?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/spina-michele/ "Connect on LinkedIn")
