@@ -2,7 +2,7 @@
 
 :octocat: Hi! I'm a Michele, and I'm a freelance developer
 
-🖥️ I'm currently collaboreting with <a href="https://cine.dev/">CineDev</a> as Software Engineer and Swift developer.
+🖥️ I'm currently collaboreting with <a href="https://cine.dev/">CineDev</a> and Grabbit as Software Engineer and Swift developer.
 
 🌱 I'm currently attending the master's degree in <a href="https://corsidilaurea.uniroma1.it/en/corso/2021/29932/home">computer science</a> at La Sapienza of Rome
 
