@@ -1,6 +1,6 @@
 #  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
 
-:octocat: Hi! I'm a Michele, and I'm a freelance developer
+:octocat: Hi! I'm a Michele, and I'm a backend developer, working also as freelance.
 
 🌱 I'm currently attending the master's degree in <a href="https://corsidilaurea.uniroma1.it/en/corso/2021/29932/home">computer science</a> at La Sapienza of Rome
 
